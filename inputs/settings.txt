@@ -1,0 +1,6 @@
+browser = 
+driver = ../chromedriver.exe
+headless = 
+reaction = 
+chrome_version =
+proxy = 
